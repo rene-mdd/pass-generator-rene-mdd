@@ -15,15 +15,13 @@ form {
   width: 200px;
 }
 
-/* label:nth-child(1) {
- text-align: left;
-} */
-
 button {
   background-color: rgba(65, 170, 255, 0.911);
   padding: 10px 0px;
   margin-top: 15px;
   width: 100%;
+  color: white;
+  font-weight: 600;
 }
 
 input {
@@ -51,4 +49,15 @@ label {
 width: 100%;
 height: 30px;
 border: 1px solid rgb(206, 203, 203);
+}
+
+.main {
+  width: 25%;
+  border: 1px solid rgb(179, 176, 176);
+  border-radius: 10px;
+  margin: auto;
+  margin-top: 10%;
+  background: #475F94;
+  color: white;
+  font-weight: 700;
 }

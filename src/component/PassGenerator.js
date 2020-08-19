@@ -17,8 +17,6 @@ class PassGenerator extends React.Component {
         // this.handleSubmit = this.handleSubmit.bind(this);
         this.filtered = this.filtered;
         this.r = this.r;
-
-        console.log(...this.state.characters)
     }
 
 
@@ -41,10 +39,7 @@ class PassGenerator extends React.Component {
           total += randomStringValue;
       
         }
-        console.log(total)
-        console.log(allowed)
       
-        
         this.setState({
             randomValue: total,
             characters: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
@@ -59,24 +54,21 @@ class PassGenerator extends React.Component {
     }
 
     checker1() {
-        //     const {name, checked} = e.target;
-        // this.setState({[name]: checked})
+
         this.setState({ mixed: !this.state.mixed })
     }
     checker2(e) {
         this.setState({ special: !this.state.special })
-        console.log(e.target.value)
     }
     handleSubmit(event) {
         event.preventDefault();
-        console.log(event.target.name)
 
         // Do stuff
     }
 
     render() {
         return (
-            <div>
+            <div className="main">
                 <h1>Generate password</h1>
                 <form onSubmit={this.handleSubmit}>
                     <div className="formBox">
@@ -94,10 +86,10 @@ class PassGenerator extends React.Component {
 
                     </label>
                     <label htmlFor="mixed">Use mixed case </label>
-                    <input onClick={this.checker1} type="checkbox" value="mixed" name="mixed" checked={this.state.mixed} />
+                    <input onChange={this.checker1} type="checkbox" value="mixed" name="mixed" checked={this.state.mixed} />
 
                     <label htmlFor="special">Use special characters</label>
-                    <input onClick={this.checker2} type="checkbox" value="special" name="special" checked={this.state.special} />
+                    <input onChange={this.checker2} type="checkbox" value="special" name="special" checked={this.state.special} />
                     </div>
                 </form>
           
