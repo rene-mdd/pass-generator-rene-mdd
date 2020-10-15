@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pass-generator-rene-mdd/static/css/main.c734661b.chunk.css",
+    "main.js": "/pass-generator-rene-mdd/static/js/main.3ed2a67f.chunk.js",
+    "main.js.map": "/pass-generator-rene-mdd/static/js/main.3ed2a67f.chunk.js.map",
+    "runtime-main.js": "/pass-generator-rene-mdd/static/js/runtime-main.486cba66.js",
+    "runtime-main.js.map": "/pass-generator-rene-mdd/static/js/runtime-main.486cba66.js.map",
+    "static/js/2.0f6bac02.chunk.js": "/pass-generator-rene-mdd/static/js/2.0f6bac02.chunk.js",
+    "static/js/2.0f6bac02.chunk.js.map": "/pass-generator-rene-mdd/static/js/2.0f6bac02.chunk.js.map",
+    "index.html": "/pass-generator-rene-mdd/index.html",
+    "precache-manifest.5e0413e9cd1bb1e0d7114a44a4dbd87f.js": "/pass-generator-rene-mdd/precache-manifest.5e0413e9cd1bb1e0d7114a44a4dbd87f.js",
+    "service-worker.js": "/pass-generator-rene-mdd/service-worker.js",
+    "static/css/main.c734661b.chunk.css.map": "/pass-generator-rene-mdd/static/css/main.c734661b.chunk.css.map",
+    "static/js/2.0f6bac02.chunk.js.LICENSE.txt": "/pass-generator-rene-mdd/static/js/2.0f6bac02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.486cba66.js",
+    "static/js/2.0f6bac02.chunk.js",
+    "static/css/main.c734661b.chunk.css",
+    "static/js/main.3ed2a67f.chunk.js"
+  ]
+}
