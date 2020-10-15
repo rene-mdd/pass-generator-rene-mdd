@@ -1,6 +1,6 @@
 {
-  "homepage": "http://rene-mdd.github.io/pass-generator-rene-mdd",
-  "name": "pass-generator-rene-mdd",
+  "homepage": "http://rene-mdd.github.io/react-pass-generator-rene-mdd",
+  "name": "react-pass-generator-rene-mdd",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

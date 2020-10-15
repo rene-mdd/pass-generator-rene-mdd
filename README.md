@@ -1,4 +1,4 @@
-Widget to create random password for your usage.
+Widget to generate a random password for your usage.
 
 Technology: React.
 
