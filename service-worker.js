@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pass-generator-rene-mdd/precache-manifest.5e0413e9cd1bb1e0d7114a44a4dbd87f.js"
+  "/pass-generator-rene-mdd/precache-manifest.f8ff1dc4e58a9499bfcb023e5b8ef9a1.js"
 );
 
 self.addEventListener('message', (event) => {
