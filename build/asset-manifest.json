@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-pass-generator-rene-mdd/static/css/main.3a8bece9.chunk.css",
+    "main.js": "/react-pass-generator-rene-mdd/static/js/main.2c15e5cd.chunk.js",
+    "main.js.map": "/react-pass-generator-rene-mdd/static/js/main.2c15e5cd.chunk.js.map",
+    "runtime-main.js": "/react-pass-generator-rene-mdd/static/js/runtime-main.f97a22f5.js",
+    "runtime-main.js.map": "/react-pass-generator-rene-mdd/static/js/runtime-main.f97a22f5.js.map",
+    "static/js/2.f4762b73.chunk.js": "/react-pass-generator-rene-mdd/static/js/2.f4762b73.chunk.js",
+    "static/js/2.f4762b73.chunk.js.map": "/react-pass-generator-rene-mdd/static/js/2.f4762b73.chunk.js.map",
+    "index.html": "/react-pass-generator-rene-mdd/index.html",
+    "precache-manifest.98f0c29fedf49f7aabdea213d442c8e9.js": "/react-pass-generator-rene-mdd/precache-manifest.98f0c29fedf49f7aabdea213d442c8e9.js",
+    "service-worker.js": "/react-pass-generator-rene-mdd/service-worker.js",
+    "static/css/main.3a8bece9.chunk.css.map": "/react-pass-generator-rene-mdd/static/css/main.3a8bece9.chunk.css.map",
+    "static/js/2.f4762b73.chunk.js.LICENSE.txt": "/react-pass-generator-rene-mdd/static/js/2.f4762b73.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f97a22f5.js",
+    "static/js/2.f4762b73.chunk.js",
+    "static/css/main.3a8bece9.chunk.css",
+    "static/js/main.2c15e5cd.chunk.js"
+  ]
+}
